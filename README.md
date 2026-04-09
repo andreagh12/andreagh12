@@ -8,19 +8,19 @@ Full-stack developer with a strong analytical background, currently completing a
 
 - **Frontend:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
 
 - **Backend:**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) Rest APIs
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) Rest APIs
 
 - **Database:**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 - **Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)
 
 ---
 
