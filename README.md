@@ -12,7 +12,7 @@ Full-stack developer with a strong analytical background, currently completing a
 
 - **Backend:**
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) Rest APIs
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 - **Database:**
 
